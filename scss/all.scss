@@ -82,6 +82,7 @@ header {
     background: center/cover url(../img/logo.png);
     text-indent: 101%;
     overflow: hidden;
+    white-space: nowrap;
     @media (max-width: 576px) {
       margin: 10px 0;
     }
